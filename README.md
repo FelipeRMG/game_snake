@@ -7,6 +7,6 @@ O Projeto sofreu atualização do autor, endereço do repositório: <a href="htt
 
 <h2>Executar</h2>
 <ol>
- <li>Instale a pygame:  > pip install pygame</li>
- <li>Execute o snake.py: > python3 snake.py </li>
+ <li>Instale a pygame:  `pip install pygame` </li>
+  <li>Execute o snake.py: `python3 snake.py` </li>
 </ol>
